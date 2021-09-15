@@ -1,5 +1,5 @@
 {
-  "name": "@owenpotent/demina",
+  "name": "demina",
   "version": "1.0.0",
   "main": "dist/index.js",
   "typings": "./typings.d.ts",
